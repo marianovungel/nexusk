@@ -1,0 +1,25 @@
+.headerimgHome{
+    height: 60px;
+    margin-left: 50px;
+}
+.containerHeaderHome{
+    width: 100%;
+    height: 75px;
+    background-color: #212D94;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu{
+    width: 31%;
+    margin-right: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.itemHome{
+    list-style: none;
+    color: #fff;
+    text-decoration: none;
+    cursor: pointer;
+}
