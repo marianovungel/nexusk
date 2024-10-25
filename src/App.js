@@ -1,14 +1,10 @@
 import './App.css';
-import Criar from './Pages/Criar';
-// import Home from './Pages/Home';
-// import Login from './Pages/Login';
 
 function App() {
   return (
     <div className="App">
-      {/* <Login /> */}
-      {/* <Home /> */}
-      <Criar />
+      <h1>Acesse o Formulário de Pesquisa de Satisfação!</h1>
+      <button>Acessar Agora...</button>
     </div>
   );
 }
