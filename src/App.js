@@ -3,7 +3,7 @@ import './App.css';
 function App() {
 
   const Links = ()=>{
-    window.location.replace("/")
+    window.location.replace("https://docs.google.com/forms/d/e/1FAIpQLSeyGvho7Xn1118_gJ4Bx3sLpRp5veHkGKp9SoeRb8IF9pD_eg/viewform?usp=sf_link")
   }
   return (
     <div className="App">

@@ -11,9 +11,9 @@
     color: #666;
 }
 .Buttom{
-    padding: 10px 16px;
+    padding: 16px 20px;
     border: none;
-    border-radius: 20px;
+    border-radius: 8px;
     background-color: rgb(30, 30, 233);
     color: #fff;
 }
